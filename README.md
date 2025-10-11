@@ -82,10 +82,10 @@ The project combines **front-end development**, **data visualization**, and **ma
 ---
 
 ## 🔗 Useful Links
-- **GitHub:** [https://github.com/ChaimaMansouri/Web-Dashboard-for-Perfume-Store](https://github.com/ChaimaMansouri/Web-Dashboard-for-Perfume-Store)  
+- **GitHub:** [https://github.com/ChaimaMansouri/Dashboard_project](https://github.com/ChaimaMansouri/Dashboard_project)  
 - **Live Dashboard:** [https://project-dashboard-wc9p.onrender.com](https://project-dashboard-wc9p.onrender.com)  
-- **Dataset:** *Perfume E-Commerce Dataset 2024*  
-- **YouTube Demo:** *(Coming soon)*  
+- **Dataset:** */kaggle/input/perfume-e-commerce-dataset-2024/ebay_mens_perfume.csv*  
+- **YouTube Demo:** *(https://youtu.be/cCI3FoyH0XA?si=muibHuAUoZfYenSl)*  
 
 
 
