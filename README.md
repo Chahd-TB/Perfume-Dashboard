@@ -81,11 +81,23 @@ The project combines **front-end development**, **data visualization**, and **ma
 
 ---
 
+# 📸 Preview (only login page)
+
+
+
+https://github.com/user-attachments/assets/147088e8-bc28-41de-adb9-e8c9097e591d
+
+
+
+
+
+---
+
 ## 🔗 Useful Links
 - **GitHub:** [https://github.com/ChaimaMansouri/Dashboard_project](https://github.com/ChaimaMansouri/Dashboard_project)  
 - **Live Dashboard:** [https://project-dashboard-wc9p.onrender.com](https://project-dashboard-wc9p.onrender.com)  
 - **Dataset:** */kaggle/input/perfume-e-commerce-dataset-2024/ebay_mens_perfume.csv*  
-- **YouTube Demo:** *(https://youtu.be/cCI3FoyH0XA?si=muibHuAUoZfYenSl)*  
+- **YouTube Demo:** *(https://youtu.be/cCI3FoyH0XA?si=muibHuAUoZfYenSl)*
 
 
 
